@@ -36,7 +36,7 @@ namespace Controllers
            {
                 product.Add(objectProductInfo);
            }catch(Exception ex){
-               Console.WriteLine(ex.Message);
+               throw new Exception(ex.Message);
            }
            return product;
        }
@@ -49,7 +49,7 @@ namespace Controllers
                 _context.ProductInfo.Add(item);
                 await _context.SaveChangesAsync();
             }catch(Exception ex){
-                Console.WriteLine(ex.Message);
+                throw new Exception(ex.Message);
             }    
         }
 
@@ -64,7 +64,7 @@ namespace Controllers
                 _context.ProductInfo.Update(result);
                 await _context.SaveChangesAsync();
             }catch(Exception ex){
-                Console.WriteLine(ex.Message);
+                throw new Exception(ex.Message);
             }    
         }
 
@@ -78,7 +78,7 @@ namespace Controllers
                 _context.ProductInfo.Remove(result);
                 await _context.SaveChangesAsync();
             }catch(Exception ex){
-                Console.WriteLine(ex.Message);
+                throw new Exception(ex.Message);
             }    
         }
     }
