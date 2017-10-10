@@ -1,0 +1,12 @@
+c:\Users\Administrator\Desktop\ProductWebApi\bin\Debug\netcoreapp2.0\ProductWebApi.deps.json
+c:\Users\Administrator\Desktop\ProductWebApi\bin\Debug\netcoreapp2.0\ProductWebApi.runtimeconfig.json
+c:\Users\Administrator\Desktop\ProductWebApi\bin\Debug\netcoreapp2.0\ProductWebApi.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\ProductWebApi\bin\Debug\netcoreapp2.0\ProductWebApi.dll
+c:\Users\Administrator\Desktop\ProductWebApi\bin\Debug\netcoreapp2.0\ProductWebApi.pdb
+c:\Users\Administrator\Desktop\ProductWebApi\obj\Debug\netcoreapp2.0\ProductWebApi.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\ProductWebApi\obj\Debug\netcoreapp2.0\ProductWebApi.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\ProductWebApi\obj\Debug\netcoreapp2.0\ProductWebApi.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\ProductWebApi\obj\Debug\netcoreapp2.0\ProductWebApi.dll
+c:\Users\Administrator\Desktop\ProductWebApi\obj\Debug\netcoreapp2.0\ProductWebApi.pdb
+c:\Users\Administrator\Desktop\ProductWebApi\bin\Debug\netcoreapp2.0\ProductWebApi.dll.config
+c:\Users\Administrator\Desktop\ProductWebApi\obj\Debug\netcoreapp2.0\ProductWebApi.csproj.ProductWebApi.dll.config
